@@ -13,6 +13,8 @@ public class Forward implements RobotAction {
 	
 	RegulatedMotor rightMotor;
 	
+	private static final int SPEED = 100;
+	
 	int distance;
 	
 	public Forward(RegulatedMotor leftMotor, RegulatedMotor rightMotor, int distance) {
@@ -23,7 +25,7 @@ public class Forward implements RobotAction {
 	
 	@Override
 	public void runAction() {
-		forward(100, distance);
+		forward(SPEED, distance);
 		
 	}
 

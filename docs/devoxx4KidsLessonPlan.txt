@@ -1,0 +1,54 @@
+Lego Mindstorm NXT
+
+1) Introductions - Name/What you hope to learn
+
+2) Quick intro to the parts of a NXT Robot
+
+3) Assemble your own Robot.  Kids get into groups and pass the NXT Robots around and build them.
+Arrange the instructions into a small text based program.
+
+4) Inspection/Build Issue resolution
+
+5) Review how did we do this?
+
+6) Understanding the Event Loop
+
+7) Hello Robot
+  a) Printing on the display
+  b) Telephone - Setup a list of master - slave
+
+8) Reading the Sensor
+
+9) Moving!
+  a) Straight
+  b) Turning - Right/Left
+
+10) Moving based on the Sensor Reading
+  a) Straight line 
+  b) Turning
+
+11) Tracing a line.
+  a) Don't fall off the balance beam
+
+12) Race?
+  a) Provide a course that kids have to trace.
+  b) 2 Parallel lines that bots must touch do a 180 and return
+
+13) Lunch Break
+
+14) Under the hood
+
+15) Relay Race
+  a) Drag Race
+  b) 2 Parallel lines touch and turn 180
+  c) 2 Parallel lines that bots must touch 180 and return then bluetooth message a partner.
+
+16) Create your own?
+
+17) Different Sensors?
+
+Game list
+Telephone
+Balance Beam - Straight and Circle
+Relay Race
+Relay Race with Bluetooth
