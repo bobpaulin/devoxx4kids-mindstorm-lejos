@@ -1,6 +1,9 @@
 Lego Mindstorm NXT
 
 1) Introductions - Name/What you hope to learn
+  a) About Devoxx4Kids
+    1) Kid directed.
+    2) Focus on Fun
 
 2) Quick intro to the parts of a NXT Robot
 
@@ -9,9 +12,13 @@ Arrange the instructions into a small text based program.
 
 4) Inspection/Build Issue resolution
 
-5) Review how did we do this?
+5) Intro to the Programming Interface
+  a) Sections
+  b) Creating a new Program
+  c) https://github.com/devoxx4kids/materials/blob/master/workshops/mindstorm/nxt2.0/Lego%20MINDSTORMS-Introduction-and-exercices-english.pdf
 
-6) Understanding the Event Loop
+6) Review how did we do this?
+  a) Understanding the Event Loop
 
 7) Hello Robot
   a) Printing on the display
@@ -22,6 +29,7 @@ Arrange the instructions into a small text based program.
 9) Moving!
   a) Straight
   b) Turning - Right/Left
+  c) Calibrate Turns, 90 180 
 
 10) Moving based on the Sensor Reading
   a) Straight line 
